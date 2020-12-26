@@ -14,3 +14,6 @@
 
 ### Problem Solving
 - [How to read problem statements](https://codeforces.com/blog/entry/62730)
+
+### Courses
+- [Commonlounge](https://www.commonlounge.com/discussion/55e14de95aed4baa84f61bcb4c14ca3c)
